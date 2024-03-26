@@ -8,3 +8,4 @@ HW1 Output:
 <br>
 HW2 Output:
 <br>
+<img src="hw2.gif">
