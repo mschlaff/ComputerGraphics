@@ -13,9 +13,14 @@ HW2 Output:
 <br>
 HW3 Output:
 <br>
-<img src="hw3.PNG">
+<img src="hw3.PNG" style="width:600px;">
 
 <br>
 HW4 Output:
 <br>
 <img src="hw4.gif">
+
+<br>
+HW5 Output:
+<br>
+<img src="hw5.PNG" style="width:600px;">
