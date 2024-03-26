@@ -9,3 +9,8 @@ HW1 Output:
 HW2 Output:
 <br>
 <img src="hw2.gif">
+
+<br>
+HW3 Output:
+<br>
+<img src="hw3.PNG">
