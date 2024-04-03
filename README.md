@@ -24,3 +24,8 @@ HW4 Output:
 HW5 Output:
 <br>
 <img src="hw5.PNG" style="width:600px;">
+
+<br>
+HW6 Output:
+<br>
+<img src="hw6.PNG" style="width:600px;">
