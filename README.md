@@ -34,3 +34,8 @@ HW6 Output:
 HW7 Output:
 <br>
 <img src="hw7.PNG" style="width:600px;">
+
+<br>
+HW8 Output:
+<br>
+<img src="hw8.gif" style="width:600px;">
